@@ -130,6 +130,20 @@ main {
   max-width: 34ch;
 }
 
+.project .project-courses {
+  max-width: none;
+  margin-top: 1.125rem;
+  color: var(--ink);
+  font-size: 0.9375rem;
+  font-weight: 650;
+}
+
+.project-details .quiet-link {
+  display: inline-block;
+  margin-top: 0.25rem;
+  font-size: 0.875rem;
+}
+
 .project-links {
   display: flex;
   flex-wrap: wrap;
